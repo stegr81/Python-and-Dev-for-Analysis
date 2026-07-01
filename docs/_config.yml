@@ -4,8 +4,8 @@ email: your-email@example.com
 description: >-
   A comprehensive course covering Python programming and developer tools.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
-repository: "yourusername/your-repo" # GitHub username/repo-name
+url: "https://stegr81.github.io" # the base hostname & protocol for your site
+repository: "stegr81/Python-and-Dev-for-Analysis" # GitHub username/repo-name
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
