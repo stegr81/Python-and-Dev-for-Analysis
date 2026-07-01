@@ -1,41 +1,41 @@
 ---
 layout: default
-title: Python & Developer Course
-description: A comprehensive course covering Python programming and developer tools
+title: Introduction to Python & Dev for Analysis
+description: A comprehensive introduction to using Python for analysis in a modern dev environment
 ---
 
-# Welcome to the Python & Developer Course
+# Welcome to the Introduction to Python & Dev for Analysis course
 
 ## About This Course
-This course provides a comprehensive introduction to Python programming and developer tools. We'll cover:
+This course is designed to ensure students leave with a modern development environment set up and good to go. They will also be armed with an awareness of some fundamental development principles and skills as well as a strong introduction to scripting for analysis in Python.
 
-- Python fundamentals
-- Web development with Python
-- Version control with Git
-- And much more!
+Briefly, we'll cover:
 
-## Course Modules
-{% for module in site.course_modules %}
-- [{{ module.title }}]({{ module.url }})
-{% endfor %}
+- Setting up and using Microsoft VS Code as your IDE (Integrated Development Environment) of choice
+- Python fundamentals including:
+   - Strings
+   - Numbers
+   - Lists
+   - ...and more    
+- An introduction to interacting with the command line
+- Version control with Git & GitHub
+- Data ingestion and analysis in Python, including:
+   - Pandas
+   - API calls
+- Getting AI assistance baked into VS Code. It is 2026 after all
 
 ## Get Started
-[Download the course materials](#) or [browse the course content](#).
 
+To begin with you need to download the initial Welcome to the Course set up guide and follow the instructions for downloading the required software ahead of the course starting.
 
-<button class="btn" onclick="alert('Welcome to the course!')">Click Me</button>
+<a href="Python_Setup_Guide_v1-3.pdf" class="btn">Setup Guide</a>
+
+Secondly, go ahead and grab the exercise notebook for the first lot of challenges. You don't need to do anything, just have it ready to go. Find somewhere on your computer that you're happy to hold learning materials and put this file in a suitably titled folder.
+
+<a href="part_1_challenges.ipynb" class="btn">Setup Guide</a>
+
+Finally, don't be scared away. I'll see you on the first morning.
+
 
 ## About the Instructor
 {{ site.author.name }} is a Python developer and educator with over 10 years of experience in software development.
-```
-
-### Key Elements Explained:
-
-1. **Front Matter Section** (between `---`):
-   ```yaml
-   ---
-   layout: default
-   title: Python & Developer Course
-   description: A comprehensive course covering Python programming and developer tools
-   permalink: /
-   ---
