@@ -23,6 +23,8 @@ This course provides a comprehensive introduction to Python programming and deve
 ## Get Started
 [Download the course materials](#) or [browse the course content](#).
 
+<button class="btn" onclick="alert('Welcome to the course!')">Click Me</button>
+
 ## About the Instructor
 {{ site.author.name }} is a Python developer and educator with over 10 years of experience in software development.
 ```
