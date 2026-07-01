@@ -2,7 +2,6 @@
 layout: default
 title: Python & Developer Course
 description: A comprehensive course covering Python programming and developer tools
-permalink: /
 ---
 
 # Welcome to the Python & Developer Course
