@@ -11,6 +11,8 @@ This course is designed to ensure students leave with a modern development envir
 
 It's aimed at the absolute novice, no prior experience is necessary - we start at zero!
 
+I endeavour to create an inclusive and relaxed learning environment where everyone is given room to learn and grow without undue pressure or expectation.
+
 Briefly, we'll cover:
 
 - Setting up and using Microsoft VS Code as your IDE (Integrated Development Environment) of choice
@@ -19,11 +21,6 @@ Briefly, we'll cover:
 - Version control with Git & GitHub
 - Data ingestion and analysis in Python
 - Getting AI assistance baked into VS Code. It is 2026 after all
-
-## The Instructor
-I have over 5 years' experience as a Python developer/analyst. My specific interests in this area include geospatial data analysis and visualisation. I also use Python to dabble with IoT (Internet of Things) set ups.
-
-I endeavour to create an inclusive and relaxed learning environment where everyone is given room to learn and grow without undue pressure or expectation.
 
 ## Get Started
 To begin with, download the initial Welcome to the Course set up guide below and follow the instructions for downloading and installing the required software prior to the course.
