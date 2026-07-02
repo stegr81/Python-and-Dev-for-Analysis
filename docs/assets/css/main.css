@@ -33,17 +33,19 @@ a:hover {
 .btn {
   display: inline-block;
   background: #3498db;
-  color: white;
+  color: white !important; /* Force white text */
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background 0.3s ease;
+  text-decoration: none; /* Remove underline if it appears */
 }
 
 .btn:hover {
   background: #2980b9;
-  color: white;
+  color: white !important; /* Force white text on hover */
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.3); /* Optional: adds slight shadow for contrast */
 }
 
 /* Python Syntax Highlighting */
