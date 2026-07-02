@@ -43,6 +43,7 @@ a:hover {
 
 .btn:hover {
   background: #2980b9;
+  color: white;
 }
 
 /* Python Syntax Highlighting */
