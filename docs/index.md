@@ -36,4 +36,4 @@ Find somewhere on your computer that you're happy to hold learning materials and
 
 <a href="part_1_challenges.ipynb" class="btn" download>Part 1 Challenges</a>
 
-If you have any issues with any aspect of the pre-course bits there will be time to address it.
+Please work through the setup guide ahead of the course, but rest assured if you have any issues there will be time to address them. It's all part of the learning!
