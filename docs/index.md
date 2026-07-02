@@ -9,7 +9,7 @@ description: A comprehensive introduction to using Python for analysis in a mode
 ## About This Course
 This course is designed to ensure students leave with a modern development environment set up and good to go, armed with an awareness of some fundamental development skills and the knowledge to attempt a Python based approach to analysis.
 
-It's aimed at the absolute novice, no prior experience is necessary - we start at zero!
+The course is aimed at the absolute novice, no prior experience is necessary - we start at zero!
 
 I endeavour to create an inclusive and relaxed learning environment where everyone is given room to learn and grow without undue pressure or expectation.
 
