@@ -7,7 +7,7 @@ description: A comprehensive introduction to using Python for analysis in a mode
 # Welcome to the Introduction to Python & Dev for Analysis course
 
 ## About This Course
-This course is designed to ensure students leave with a modern development environment set up and good to go. They will also be armed with an awareness of some fundamental development principles and skills as well as a strong introduction to scripting for analysis in Python.
+This course is designed to ensure students leave with a modern development environment set up and good to go, armed with an awareness of some fundamental development skills and the knowledge to attempt a Python based approach to analysis.
 
 It's aimed at the absolute novice, no prior experience is necessary - we start at zero!
 
@@ -20,14 +20,20 @@ Briefly, we'll cover:
 - Data ingestion and analysis in Python
 - Getting AI assistance baked into VS Code. It is 2026 after all
 
-## Get Started
+## The Instructor
+I have over 5 years' experience as a Python developer/analyst. My specific interests in this area include geospatial data analysis and visualisation. I also use Python to dabble with IoT (Internet of Things) set ups.
 
-To begin with you need to download the initial Welcome to the Course set up guide and follow the instructions for downloading the required software ahead of the course starting.
+I endeavour to create an inclusive and relaxed learning environment where everyone is given room to learn and grow without undue pressure or expectation.
+
+## Get Started
+To begin with, download the initial Welcome to the Course set up guide below and follow the instructions for downloading and installing the required software prior to the course.
 
 <a href="Python_Setup_Guide_v1-3.pdf" class="btn">Setup Guide</a>
 
-Secondly, go ahead and grab the exercise notebook for the first lot of challenges. You don't need to do anything, just have it ready to go. Find somewhere on your computer that you're happy to hold learning materials and put this file in a suitably titled folder.
+Secondly, go ahead and grab the exercise notebook for the first lot of challenges. You don't need to do anything, just have it ready to go. 
+
+Find somewhere on your computer that you're happy to hold learning materials and put this file in a suitably titled folder.
 
 <a href="part_1_challenges.ipynb" class="btn" download>Part 1 Challenges</a>
 
-Finally, don't be scared off. I'll see you on the first morning, and if you have any issues with any aspect of the pre-course bits there will be time to address it.
+If you have any issues with any aspect of the pre-course bits there will be time to address it.
