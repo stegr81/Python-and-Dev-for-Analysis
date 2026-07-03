@@ -25,12 +25,12 @@ Briefly, we'll cover:
 ## Get Started
 To begin with, download the initial Welcome to the Course set up guide below and follow the instructions for downloading and installing the required software prior to the course.
 
-<a href="Python_Setup_Guide_v1-3.pdf" class="btn">Setup Guide</a>
+<a href="references/Python_Setup_Guide_v1-3.pdf" class="btn" download>Setup Guide</a>
 
 Secondly, go ahead and grab the exercise notebook for the first lot of challenges. You don't need to do anything, just have it ready to go. 
 
 Find somewhere on your computer that you're happy to hold learning materials and put this file in a suitably titled folder.
 
-<a href="part_1_challenges.ipynb" class="btn" download>Part 1 Challenges</a>
+<a href="workbooks/workbook1.ipynb" class="btn" download>Workbook 1</a>
 
 Please work through the setup guide ahead of the course, but rest assured if you have any issues there will be time to address them. It's all part of the learning!
