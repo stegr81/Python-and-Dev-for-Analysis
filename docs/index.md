@@ -33,6 +33,8 @@ Secondly, go ahead and grab the exercise notebook for the first lot of challenge
 
 Find somewhere on your computer that you're happy to hold learning materials and put this file in a suitably titled folder.
 
-<a href="workbooks/workbook_1.ipynb" class="btn" download>Workbook 1</a>
+<a href="{{'workbooks/workbook_1.ipynb' | relative_url }}" class="btn" download>
+  <i class="bi bi-download"></i> Workbook 1
+</a>
 
 Please work through the setup guide ahead of the course, but rest assured if you have any issues there will be time to address them. It's all part of the learning!
