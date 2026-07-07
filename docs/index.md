@@ -23,7 +23,7 @@ Briefly, we'll cover:
 - Getting AI assistance baked into VS Code. It is 2026 after all
 
 ## Get Started
-To begin with, download the initial Welcome to the Course set up guide below and follow the instructions for downloading and installing the required software prior to the course.
+To begin with, download the initial Welcome to the Course Setup Guide from below and follow the instructions for downloading and installing the required software prior to the course.
 
 <a href="{{ '/references/Python_Setup_Guide_v1-3.pdf' | relative_url }}" class="btn" download>
   <i class="bi bi-download"></i> Setup Guide
