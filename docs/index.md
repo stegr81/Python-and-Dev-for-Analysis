@@ -25,7 +25,7 @@ Briefly, we'll cover:
 ## Get Started
 To begin with, download the initial Welcome to the Course set up guide below and follow the instructions for downloading and installing the required software prior to the course.
 
-<a href="{{ '/references/Python_Setup_Guide_v1-3.pdf' | relative_url }}" class="btn" download>Setup Guide</a>
+<a href="/references/Python_Setup_Guide_v1-3.pdf" class="btn" download>Setup Guide</a>
 
 Secondly, go ahead and grab the exercise notebook for the first lot of challenges. You don't need to do anything, just have it ready to go. 
 
