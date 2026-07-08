@@ -4,7 +4,9 @@ title: Introduction to Python & Dev for Analysis
 description: A comprehensive introduction to using Python for analysis in a modern dev environment
 ---
 
-# [Welcome to the Introduction to Python & Dev for Analysis course](https://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1)
+<h1>
+  <a href="hhttps://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1" target="_blank" rel="noopener noreferrer">Welcome to the Introduction to Python & Dev for Analysis course</a>
+</h1>
 
 ## About This Course
 This course is designed to ensure students leave with a modern development environment set up and good to go, armed with an awareness of some fundamental development skills and the knowledge to attempt a Python based approach to analysis.
