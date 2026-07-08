@@ -4,7 +4,7 @@ title: Introduction to Python & Dev for Analysis
 description: A comprehensive introduction to using Python for analysis in a modern dev environment
 ---
 
-<a href = "https://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1"> # Welcome to the Introduction to Python & Dev for Analysis course</a>
+<a href = "https://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1"><H1> Welcome to the Introduction to Python & Dev for Analysis course</H1></a>
 
 ## About This Course
 This course is designed to ensure students leave with a modern development environment set up and good to go, armed with an awareness of some fundamental development skills and the knowledge to attempt a Python based approach to analysis.
@@ -38,5 +38,7 @@ Find somewhere on your computer that you're happy to hold learning materials and
 </a>
 
 Please work through the setup guide ahead of the course, but rest assured if you have any issues there will be time to address them. It's all part of the learning!
+
+You don't need it right away, but you can download <a href="{{'workbooks/workbook_2.ipynb' | relative_url }}" download><i class="bi bi-download"></i>Workbook 2</a> now if you'd like.
 
 
