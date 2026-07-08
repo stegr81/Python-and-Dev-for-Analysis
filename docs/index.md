@@ -5,7 +5,7 @@ description: A comprehensive introduction to using Python for analysis in a mode
 ---
 
 <h1>
-  <a href="hhttps://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1" target="_blank" rel="noopener noreferrer">Welcome to the Introduction to Python & Dev for Analysis course</a>
+  <a href="https://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1" target="_blank" rel="noopener noreferrer">Welcome to the Introduction to Python & Dev for Analysis course</a>
 </h1>
 
 ## About This Course
@@ -41,6 +41,6 @@ Find somewhere on your computer that you're happy to hold learning materials and
 
 Please work through the setup guide ahead of the course, but rest assured if you have any issues there will be time to address them. It's all part of the learning!
 
-You don't need it right away, but you can download <a href="{{'workbooks/workbook_2.ipynb' | relative_url }}" download><i class="bi bi-download"></i>Workbook 2</a> now if you'd like.
+You don't need it right away, but you can download <a href="{{'workbooks/workbook_2.ipynb' | relative_url }}" download><i class="bi bi-download"></i>Workbook 2</a> now if you'd like. Also, you can reach the slides by following the link in this page's title.
 
 
