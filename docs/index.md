@@ -5,7 +5,7 @@ description: A comprehensive introduction to using Python for analysis in a mode
 ---
 
 ## About the Course
-This course is designed to ensure students leave with an awareness of some fundamental development skills and the knowledge to attempt a Python based approach to analysis and armed with modern development environment, set up and good to go!
+This course is designed to ensure students leave with an awareness of some fundamental development skills and the knowledge to attempt a Python based approach to analysis, armed with a modern development environment, set up and good to go!
 
 The course is aimed at the absolute novice, <b>no prior experience is necessary</b> - we start at zero!
 
