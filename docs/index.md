@@ -40,7 +40,7 @@ Find somewhere on your computer that you're happy to hold learning materials and
 
 Please work through the setup guide ahead of the course, but rest assured if you have any issues there will be time to address them. It's all part of the learning!
 
-Finally, you don't need it right away, but you can download <a href="{{'workbooks/workbook_2.ipynb' | relative_url }}" download><i class="bi bi-download"></i>Workbook 2</a> now if you'd like. For future reference and if you'd like a sneak peak, you can access the course slides <a href="https://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1" target="_blank" rel="noopener noreferrer">here</a>.
+Finally, you don't need it right away, but you can download <a href="{{'workbooks/workbook_2.ipynb' | relative_url }}" download><i class="bi bi-download"></i>Workbook 2</a> now if you'd like. For future reference or if you'd just like a sneak peak, you can access the course slides <a href="https://ur37mx9zpq2wk5v9yx2aa.lovable.app/#1" target="_blank" rel="noopener noreferrer">here</a>.
 
 See you soon!
 
