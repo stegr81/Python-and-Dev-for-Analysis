@@ -11,7 +11,7 @@
 <ul>
 <li> Additional Python challenges
 <li> Personal notes covering the flow of certain aspects of the course
-<li> HTML countdown timer is hosted by GitHub pages in this repo: <a href="https://stegr81.github.io/Python-and-Dev-for-Analysis/timer/countdown.html" target="_blank" rel="noopener noreferrer">
+<li> HTML <a href="https://stegr81.github.io/Python-and-Dev-for-Analysis/timer/countdown.html" target="_blank" rel="noopener noreferrer">countdown timer</a> is hosted by GitHub pages in this repo. 
 </ul>
 </ul>
 
