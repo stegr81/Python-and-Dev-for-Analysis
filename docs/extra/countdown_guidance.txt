@@ -1,0 +1,9 @@
+Example URLs for countdown clock.
+
+time = return time 24hr
+message = reason for clock; a break, the start of the session etc
+finished = a message for when the time is reached - welcome to the course, welcome back etc
+
+countdown.html?time=09:00&message=Coffee%20Break&finished=Session%20Starting
+
+countdown.html?time=14:00&message=Lunch%20Break&finished=Welcome%20Back
