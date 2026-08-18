@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Training Countdown</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Segoe UI, Arial, sans-serif;
+    color: white;
+    min-height: 100vh;
+
+    background:
+        linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.5)),
+        url("https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1920&auto=format&fit=crop");
+
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.message {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.return-time {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.clock {
+    font-size: 8rem;
+    font-weight: bold;
+    text-shadow: 0 0 20px rgba(0,0,0,.5);
+}
+
+.current {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+}
+
+.finished {
+    color: #7dff8c;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="message" id="message">Break Time</div>
+
+    <div class="return-time">
+        Start at <span id="returnTime"></span>
+    </div>
+
+    <div class="clock" id="clock">
+        00:00:00
+    </div>
+
+    <div class="current">
+        Current time:
+        <span id="currentTime"></span>
+    </div>
+</div>
+
+<script>
+
+const params = new URLSearchParams(window.location.search);
+
+const finishedMessage =
+    params.get("finished") || "WELCOME BACK";
+
+const targetTime = params.get("time") || "09:00";
+const message = params.get("message") || "Break Time";
+
+document.getElementById("message").textContent = message;
+document.getElementById("returnTime").textContent = targetTime;
+
+const [hour, minute] = targetTime.split(":").map(Number);
+
+function updateClock() {
+
+    const now = new Date();
+
+    document.getElementById("currentTime").textContent =
+        now.toLocaleTimeString();
+
+    const target = new Date();
+
+    target.setHours(hour);
+    target.setMinutes(minute);
+    target.setSeconds(0);
+    target.setMilliseconds(0);
+
+    const diff = target - now;
+
+    if (diff <= 0) {
+
+        document.getElementById("clock").innerHTML =
+    		`<span class="finished">${finishedMessage}</span>`;
+
+        clearInterval(timerInterval);
+        return;
+    }
+
+    const totalSeconds = Math.floor(diff / 1000);
+
+    const hours = Math.floor(totalSeconds / 3600);
+    const mins = Math.floor((totalSeconds % 3600) / 60);
+    const secs = totalSeconds % 60;
+
+    document.getElementById("clock").textContent =
+        String(hours).padStart(2,'0') + ":" +
+        String(mins).padStart(2,'0') + ":" +
+        String(secs).padStart(2,'0');
+}
+
+updateClock();
+const timerInterval = setInterval(updateClock, 1000);
+
+</script>
+
+</body>
+</html>
